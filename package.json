@@ -1,0 +1,24 @@
+{
+  "name": "datastructures-javascript",
+  "version": "1.0.0",
+  "description": "Data Structure Practice projects in Javascript/NodeJs.",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "hackerrank": "node ./HackerRank/HackerRank-SAP.js",
+    "graph": "node ./Graphs/bfs-traversal.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiddharthMishraPersonal/DataStructures-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiddharthMishraPersonal/DataStructures-JavaScript/issues"
+  },
+  "homepage": "https://github.com/SiddharthMishraPersonal/DataStructures-JavaScript#readme"
+}
